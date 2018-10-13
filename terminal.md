@@ -6,3 +6,7 @@
 go to parent directory
 
 **mkdir**
+
+**pwd**
+
+**cd**
