@@ -4,3 +4,5 @@
 
 **cd ..**
 go to parent directory
+
+**mkdir**
