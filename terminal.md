@@ -6,7 +6,4 @@
 go to parent directory
 
 **mkdir**
-
-**pwd**
-
-**cd**
+make directory changes?
